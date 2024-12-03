@@ -72,7 +72,7 @@ Contributions are welcome! Please:
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -81,5 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 Thanks to the open-source community for inspiration and support in developing this project!
 
 ---
-
-Feel free to customize this template to suit your project needs.
